@@ -17,9 +17,12 @@ Steps followed -
 8.The frontend is running at 3000 port and backend at 5000 port and Dynamo db at 8000 port.
 
 
-Note : I have used a Movie dataset which was available online out of the available fields I have used three fields
-  --- Title
-  --- Description
-  --- ImageUrl(When you click the title the image url gets updated to www.google.com and as required user is directed to a static page).
+Note : I have used a Movie dataset which was available online out of the available fields I have used three fields--
+
+1.Title
+
+2.Description
+
+3.ImageUrl(When you click the title the image url gets updated to www.google.com and as required user is directed to a static page).
 
 I have attached the screenshots of the user interface as well as the Image url updation in my AWS CLI.
